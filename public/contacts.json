@@ -1,0 +1,16 @@
+{
+    "Contacts" : [
+        {
+            "Name": "Eskil1",
+            "PhoneNr": "123456678"
+        },
+        {
+            "Name": "Eskil2",
+            "PhoneNr": "223456678"
+        },
+        {
+            "Name": "Eskil3",
+            "PhoneNr": "323456678"
+        }
+    ]
+}

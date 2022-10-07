@@ -14,4 +14,10 @@ server.get('/', (req, res) => {
 
 });
 
+server.get('/Contacts', (req, res) => {
+    fs.readFile('contacts.json', (err, data) => {
+
+    }); 
+});
+
 server.listen(8080);
